@@ -1,0 +1,102 @@
+p{
+  text-align: center
+}
+body{
+  color:#40514E;
+  text-align: center;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  text-align: center;
+}
+.horizontal{
+  background-color: white;
+ border-style: none;
+ border-top-style: dotted;
+ border-width: 5px;
+ border-color: grey;
+ width: 5%;
+ margin-top: 30px;
+ margin-left: 580px;
+}
+h2{
+  font-family: 'sacromento' cursive;
+  font-size: 40px;
+  color:#66BFBF;
+  font-weight: normal;
+  padding:20px;
+  text-align: center;
+
+}
+.skills{
+  padding-top: 20px
+}
+
+
+.navbar{
+  padding:0 0 4.5rem;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+}
+.card{
+  margin:auto;
+
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+  
+}
+.chillies{
+  width:25%;
+  float:right;
+  margin-right: 30px;
+}
+.contact-me{
+  width:30%;
+  margin:40px auto 60px;
+}
+.footer-link{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.copyright{
+  color:#EAF6F6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  text-align:center;
+  padding:7% 15%;
+}
+.contact{
+  margin:  40px auto 60px ;
+}
